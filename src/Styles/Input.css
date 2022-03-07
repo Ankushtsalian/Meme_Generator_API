@@ -1,0 +1,30 @@
+.form {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+.Button {
+  font-size: 15px;
+  border: 1px solid;
+  height: 50px;
+  width: 950px;
+  border-radius: 7px;
+  bottom: 2px solid;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+}
+span {
+  color: white;
+}
+input {
+  border-radius: 7px;
+  border: 1px solid;
+  height: 50px;
+  width: 450px;
+  margin: 30px;
+  bottom: 2px solid;
+  text-indent: 5px;
+}

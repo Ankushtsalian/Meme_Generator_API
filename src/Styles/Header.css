@@ -1,0 +1,13 @@
+.meme_face_img {
+  height: 100px;
+  padding: 20px;
+}
+.Header {
+  display: flex;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  color: white;
+}
+
+.Header > h2 {
+  padding: 35px 35px 35px 5px;
+}
